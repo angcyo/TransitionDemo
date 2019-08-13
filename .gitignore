@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+/apk
+/wayto.core
+/wayto.host
+/wayto.plugin
+*.jks
+.idea
+gradle
+gradlew.bat
+gradlew
+
+# 忽略插件jar
+/CableWellHost/src/main/assets/plugins/*.jar
